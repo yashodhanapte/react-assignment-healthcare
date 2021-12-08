@@ -1,0 +1,15 @@
+.header-container{
+    display:flex;
+    justify-content:flex-start;
+    align-items:center;
+    padding-left:50px;
+    height:80px;
+    background-color:#009879;
+    opacity:0.7;
+}
+.header-title{
+    font-weight:bold;
+    font-size: 24px;
+    color:#ffffff;
+    cursor:pointer;
+}

@@ -1,0 +1,16 @@
+.button-primary{
+    background-color: #009879;
+    color:#ffffff;
+    padding:10px;
+    text-align: center;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.button-disabled{
+    background-color: #b8ccc8;
+    color:#5a5a5a;
+    padding:10px;
+    text-align: center;
+    border-radius: 5px;
+    pointer-events: none;
+}
